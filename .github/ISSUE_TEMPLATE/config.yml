@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/DevelopmentFinanceObservatory/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately. Do not open a public issue.
+  - name: Data, research and partnership questions
+    url: mailto:data@one.org
+    about: Email the DFO team at data@one.org.
