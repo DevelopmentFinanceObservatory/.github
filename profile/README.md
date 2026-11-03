@@ -6,8 +6,6 @@ The Development Finance Observatory brings together data on aid, debt, health fi
 
 The DFO is an initiative of [ONE Data](https://data.one.org/).
 
-> [!Note]
-> The Development Finance Observatory is currently under development and is expected to launch in late 2026.
 
 ## Why we are building it
 
