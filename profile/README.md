@@ -70,7 +70,7 @@ The Development Finance Observatory is under active development.
 
 Repositories may initially contain experimental interfaces, provisional schemas, incomplete documentation, or breaking changes. Stable components will be identified clearly as they mature.
 
-The public platform is expected to launch in late 2026.
+The public platform launched on October 14, 2026.
 
 ## Get involved
 
